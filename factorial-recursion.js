@@ -7,4 +7,4 @@ function factorial(number){
     }
 }
 
-console.log(factorial(4));
+console.log(factorial(4 ));
